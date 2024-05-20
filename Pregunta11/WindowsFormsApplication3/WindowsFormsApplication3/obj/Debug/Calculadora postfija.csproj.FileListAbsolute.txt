@@ -1,0 +1,10 @@
+C:\Users\IVAR\source\repos\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+C:\Users\IVAR\source\repos\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+C:\Users\IVAR\source\repos\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\Calculadora postfija.csproj.AssemblyReference.cache
+C:\Users\IVAR\source\repos\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form1.resources
+C:\Users\IVAR\source\repos\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form2.resources
+C:\Users\IVAR\source\repos\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Properties.Resources.resources
+C:\Users\IVAR\source\repos\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\Calculadora postfija.csproj.GenerateResource.cache
+C:\Users\IVAR\source\repos\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\Calculadora postfija.csproj.CoreCompileInputs.cache
+C:\Users\IVAR\source\repos\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+C:\Users\IVAR\source\repos\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb

@@ -1,0 +1,31 @@
+La taxonomía de Flynn clasifica los sistemas de computación paralela 
+según el número de flujos de datos y el número de instrucciones que se 
+ejecutan simultáneamente. Las cuatro categorías principales son 
+SISD (Single Instruction, Single Data), SIMD (Single Instruction, Multiple Data), 
+MISD (Multiple Instruction, Single Data) y MIMD (Multiple Instruction, Multiple Data).
+
+==================
+OpenMP (Open Multi-Processing):
+
+Clasificación: SIMD (Single Instruction, Multiple Data)
+Justificación: OpenMP es la programación paralela 
+en sistemas de memoria compartidos, ya que usa múltiples hilos de ejecución que realizan 
+operaciones en los mismos datos, y cada hilo ejecuta la misma secuencia de 
+instrucciones, pero en diferentes datos.
+
+==================
+MPI (Message Passing Interface):
+
+Clasificación: MIMD (Multiple Instruction, Multiple Data)
+Justificación: MPI es programación paralela en sistemas distribuidos, 
+donde múltiples procesos ejecutan en instrucciones múltiples 
+y operan en datos múltiples, de forma que cada proceso puede ejecutar un 
+código diferente y comunicarse entre sí a través de mensajes.
+
+==================
+Multiprocessing:
+
+Clasificación: MIMD (Multiple Instruction, Multiple Data)
+Justificación: Multiprocessing en Python permite la ejecución de múltiples procesos en 
+paralelo, donde cada proceso puede ejecutar instrucciones múltiples y operar en datos múltiples ya que cada proceso 
+tiene su propio espacio de memoria y puede ejecutar su propio código de manera independiente, similar a MPI.
