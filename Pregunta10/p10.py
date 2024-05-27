@@ -12,6 +12,7 @@ def generar_series(rank, size, M, N, series):
 
 if __name__ == "__main__":
     num_procesadores = multiprocessing.cpu_count()
+    print("Numero de procesadores: ", num_procesadores)
     M = int(input("Ingrese el número de vectores (M): "))
     N = int(input("Ingrese el número de términos (N): "))
 
